@@ -1,1 +1,1 @@
-# kali_linux_com
+magick.com
